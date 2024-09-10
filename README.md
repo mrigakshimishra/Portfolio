@@ -21,6 +21,7 @@ The bar chart in this case helps compare the government debt levels of various c
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 The heat map displays government debt data for various countries from 1995 to 2003 using a color gradient from blue to orange, indicating the range of values, where blue represents lower values and orange represents higher values. The values represent percentages and are color-coded based on their magnitude. Countries such as Japan, Greece, and Italy have the highest debt percentages, shown in the orange range, while countries like Finland, Denmark, and Sweden have lower percentages, shown in blue. The data is organized by country on the left and years across the top, showing a trend of increasing or decreasing debt levels over time for each country. The color scale at the top right indicates the range of values from 6.6 to 238.7.
 
 ## Part 3
