@@ -42,7 +42,7 @@ When I need to show proportions within a whole, I use pie charts. They’re grea
 If I’m trying to explore relationships between two variables, I use scatter plots. They’re perfect for identifying patterns or correlations, though they can get a bit overwhelming when there are too many data points. For displaying the distribution of continuous data, I turn to histograms. They help me spot patterns like skewness or the frequency of values within certain ranges.
 
 Each visualization method has its strengths and weaknesses, so I always choose based on the data I’m working with and the story I want to tell.
-Source: https://datavizcatalogue.com
+
 
 #### Method for Part 3: Line Graph
 
@@ -54,3 +54,7 @@ Source: https://datavizcatalogue.com
 3. Clarity and Simplicity: Line graphs are simple and easy to follow, making them accessible to a broad audience. They clearly demonstrate how variables interact over time, which is essential when dealing with complex data sets like economic indicators.
 
 4. Highlighting Trends and Patterns: Line graphs are useful for showing growth trends or cycles in data, such as the increases or decreases in government debt. This visualization is key for noticing periods of economic stability or crisis.
+
+#### Data Source Acknowledgement
+[OECD](https://www.oecd.org): The dataset provided the debt-to-GDP ratio of countries.
+[Data Visualization Catalogue](https://datavizcatalogue.com): This provides a detailed on the various types of data visualizations.
