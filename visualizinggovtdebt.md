@@ -57,4 +57,5 @@ Each visualization method has its strengths and weaknesses, so I always choose b
 
 #### Data Source Acknowledgement
 [OECD](https://www.oecd.org): The dataset provided the debt-to-GDP ratio of countries.
+
 [Data Visualization Catalogue](https://datavizcatalogue.com): This provides a detailed on the various types of data visualizations.
