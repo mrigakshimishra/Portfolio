@@ -4,7 +4,7 @@ My name is Mrigakshi, and my pronouns are she/her. I’m currently a grad studen
 # What I hope to learn 
 Through this course, I aim to sharpen my skills in visualizing data and communicating insights effectively. I’m particularly interested in learning how to tailor data stories to different stakeholders, as this is a crucial skill for a Product Manager. Additionally, my goal is to enhance my ability to create data-driven insights that are not only informative but also actionable.
 # Portfolio
-# Assignment:Visualize Goverment Debt 
+# Assignment: Visualize Goverment Debt 
 Content to be added here 
 ## Part 1
 <img src="export-2024-09-09T16_49_28.535Z.png" alt="General Goverment Debt" width="500" />
