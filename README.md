@@ -47,7 +47,18 @@ If I’m trying to explore relationships between two variables, I use scatter pl
 Each visualization method has its strengths and weaknesses, so I always choose based on the data I’m working with and the story I want to tell.
 Source: https://datavizcatalogue.com
 
-Method for Part 3: Line Graph
+#### Method for Part 3: Line Graph
+
+
+1. Time Series Analysis: Line graphs are helpful for displaying data over time. In this case, the graph helps me show the government debt ratio from 2009 to 2019 across multiple countries, making it easy for the reader to interpret the data over multiple years.
+
+2. Comparative Insights: The different colored lines for each country make it easy to compare multiple data points within a single chart. This helps identify which countries have higher debt ratios and how these ratios evolve relative to others over time.
+
+3. Clarity and Simplicity: Line graphs are simple and easy to follow, making them accessible to a broad audience. They clearly demonstrate how variables interact over time, which is essential when dealing with complex data sets like economic indicators.
+
+4. Highlighting Trends and Patterns: Line graphs are useful for showing growth trends or cycles in data, such as the increases or decreases in government debt. This visualization is key for noticing periods of economic stability or crisis.
+
+
 # Assignment: Critique by Design 
 Content to be added here 
 # Final Project 
