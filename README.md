@@ -31,7 +31,8 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-## Methods of Data Visualization
+
+### Methods of Data Visualization
 There are several methods of data visualization that I use depending on the type of data and the insights I want to convey. For example, bar charts are my go-to when I need to compare discrete categories or groups. They make it easy to highlight differences between items, especially when I’m comparing multiple datasets side by side. However, I avoid them when dealing with continuous data or trends over time, since they’re not as effective in those cases.
 
 When I need to show proportions within a whole, I use pie charts. They’re great for representing percentages, but I find they can be tricky when comparing individual segments, especially if the differences are small. For trends over time, I rely on line charts. They’re excellent for showing changes across months or years by connecting data points, making them ideal for tracking continuous data.
