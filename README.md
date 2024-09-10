@@ -4,7 +4,7 @@ My name is Mrigakshi, and my pronouns are she/her. I’m currently a grad studen
 # What I hope to learn 
 Through this course, I aim to sharpen my skills in visualizing data and communicating insights effectively. I’m particularly interested in learning how to tailor data stories to different stakeholders, as this is a crucial skill for a Product Manager. Additionally, my goal is to enhance my ability to create data-driven insights that are not only informative but also actionable.
 # Portfolio
-# Assignment: [Visualize Goverment Debt]visualizinggovtdebt.md) 
+# Assignment: [Visualize Goverment Debt](visualizinggovtdebt.md) 
 A government debt ratio, typically expressed as the debt-to-GDP ratio, is a measure of a country's total government debt relative to its gross domestic product (GDP). It provides insight into a government's ability to repay its debt. A higher ratio can signal financial risk, while a lower ratio indicates stronger economic health. However, the impact also depends on factors like interest rates, economic growth, and investor confidence. 
 ## Part 1
 <img src="export-2024-09-09T16_49_28.535Z.png" alt="General Goverment Debt" width="500" />
