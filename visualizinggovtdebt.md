@@ -1,7 +1,7 @@
 # Assignment: Visualize Goverment Debt 
 A government debt ratio, typically expressed as the debt-to-GDP ratio, is a measure of a country's total government debt relative to its gross domestic product (GDP). It provides insight into a government's ability to repay its debt. A higher ratio can signal financial risk, while a lower ratio indicates stronger economic health. However, the impact also depends on factors like interest rates, economic growth, and investor confidence. 
 ## Part 1
-<img src="export-2024-09-09T16_49_28.535Z.png" alt="General Goverment Debt" width="500" />
+<img src="export-2024-09-09T16_49_28.535Z.png" alt="General Goverment Debt" width="800" />
 
 The bar chart in this case helps compare the government debt levels of various countries as a percentage of their GDP. We see Japan having the highest government debt as a percentage of GDP, exceeding 200%. Other countries are listed in descending order, with Korea having the lowest percentage. Other countries are listed in descending order, with Korea having the lowest percentage. The chart also includes the OECD average as a reference point. 
 
