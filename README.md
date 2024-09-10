@@ -35,6 +35,8 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+The chart visualizes government debt as a percentage of GDP for various European countries from 2009 to 2019. Each line represents a different country, and the data trends over time highlight fluctuations in government debt levels. The y-axis represents the percentage value of government debt relative to GDP, ranging from 0 to 160. The x-axis spans the years from 2009 to 2019. Notable lines include Italy and Greece, which are among the highest in debt ratios, showing an increasing trend, particularly around 2012-2014, followed by a more stable or slightly declining trend. Other countries display varied trends, with some showing consistent debt levels and others showing slight increases or decreases over the decade. A legend on the right lists the countries included in the chart, with each country's line color corresponding to its entry in the legend.
+
 ### Methods of Data Visualization
 There are several methods of data visualization that I use depending on the type of data and the insights I want to convey. For example, bar charts are my go-to when I need to compare discrete categories or groups. They make it easy to highlight differences between items, especially when I’m comparing multiple datasets side by side. However, I avoid them when dealing with continuous data or trends over time, since they’re not as effective in those cases.
 
