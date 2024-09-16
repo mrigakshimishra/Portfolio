@@ -13,7 +13,7 @@ For this assignment, the data set that I choose to work with is from an article 
 
 **Data Source:** Lifehacker, [The Cheapest Ways to Get Your Protein Right Now](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760)
 
-<img src="CheapestWayToGetProtein.png" alt="Cheapest Way To Get Protein" width="800" />
+<img src="CheapestWayToGetProtein.png" alt="Cheapest Way To Get Protein" width="600" />
 
 # Final Project 
 Content to be added here 
