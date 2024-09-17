@@ -107,30 +107,34 @@ The chart’s primary message (comparing costs per 30 grams of protein) is highl
 
 ### Primary Audience for the data:
 
--**Health-conscious consumers**: Those who want to compare the cost-effectiveness of various protein sources for their diet.
+**Health-conscious consumers**: Those who want to compare the cost-effectiveness of various protein sources for their diet.
 
-- **Budget-conscious shoppers**: People looking for affordable sources of protein, particularly in times of rising food prices.
-- 
-- **Nutritionists or dietitians**: Professionals advising clients on economical food options for obtaining essential nutrients like protein.
-- 
-- **Fitness enthusiasts**: Individuals aiming to optimize their dietary intake of protein while managing expenses.
+**Budget-conscious shoppers**: People looking for affordable sources of protein, particularly in times of rising food prices.
+  
+**Nutritionists or dietitians**: Professionals advising clients on economical food options for obtaining essential nutrients like protein.
+
+**Fitness enthusiasts**: Individuals aiming to optimize their dietary intake of protein while managing expenses.
 
 This visualization is effective for reaching the intended audience due to:
 
  **Relatable Content**:
+ 
  - The focus on protein cost per 30 grams is highly relevant to the audience, especially those tracking nutrition or budgeting for protein-rich foods.
  - The inclusion of familiar food items (e.g., eggs, chicken) makes the chart relatable and instantly recognizable.
 
  **Engaging Visual Appeal**:
+ 
  - For a general audience, the colorful food images can draw attention and initially engage people who might not otherwise be interested in the raw data.
    
  **Chart Type**:
+   
  - A bar chart is an intuitive and familiar way to compare different categories, making it easier for most viewers to understand.
 
 
 This method—using Stephen Few’s Data Visualization Effectiveness Profile—was highly successful in evaluating the data visualization. These aspects covered a broad range of considerations that are essential to determining the success of a visualization, from whether it meets audience needs to how easily it can be understood and acted upon. 
 
 **Measures that I would add:**
+
 **Accessibility:** The evaluation doesn’t take into account whether the visualization is readable for people with visual impairments (e.g., color blindness). Considering color choices or ensuring text legibility for all users is critical, especially for public-facing data.
 
 #### Stephen Few’s Data Visualization Effectiveness Profile Vs The Good Charts Method
