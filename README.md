@@ -125,6 +125,7 @@ This visualization is effective for reaching the intended audience due to:
  **Engaging Visual Appeal**:
  
  - For a general audience, the colorful food images can draw attention and initially engage people who might not otherwise be interested in the raw data.
+   
    
  **Chart Type**:
    
