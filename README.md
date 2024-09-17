@@ -38,7 +38,7 @@ For the purpose of the data represented here, the choice to use a bar chart is e
 
 **Intuitiveness**
 
-<img src="Intutiveness.png.png" alt="Intuitiveness" width="600" />
+<img src="Intutiveness.png.png" alt="Intutiveness" width="600" />
 
 The bar chart is a widely used format for displaying comparative data, thus making it a good choice for a general audience. Improving intuitiveness could involve simplifying the visual design to focus more on the data itself, reducing the use of multiple images, and possibly including brief instructions or clearer labels that guide the viewer through the data more clearly. This would make the chart more accessible and easier to understand for a wider range of viewers.
 
