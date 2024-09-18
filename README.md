@@ -120,6 +120,8 @@ The chart’s primary message (comparing costs per 30 grams of protein) is highl
 <img src="TGTAUD.jpg" alt="TGTAUD" width="600" />
 
 
+### Analyzing the Methodology 
+
 This method—using Stephen Few’s Data Visualization Effectiveness Profile—was highly successful in evaluating the data visualization. These aspects covered a broad range of considerations that are essential to determining the success of a visualization, from whether it meets audience needs to how easily it can be understood and acted upon. 
 
 **Measures that I would add:**
