@@ -149,9 +149,13 @@ While sketching out the solution, I emphasized on the observations I discovered 
 
 
 **Sketch:**
+
+
 <img src="Wireframe 1.png" alt="Wireframe 1" width="600" />
 
 **Digitalized:**
+
+
 <img src="Wireframe 2.png" alt="Wireframe 2" width="600" />
 
 
