@@ -196,6 +196,40 @@ The peer feedback was helpful for further refining the visualization and impleme
 <img src="In-Class Critique.jpg" alt="In-Class Critique" width="600" />
 
 
+### Interview Insights
+
+**Similarities:** 
+
+
+- The title helped get context and made the chart easier to interpret. 
+
+- The segments were helpful and easy to follow.
+
+
+**Differences:**
+
+
+- Understanding of the target audience was limited to one of the users.
+  
+- One user wanted to see calories again, however, the other three had a contrasting opinion.
+
+
+**What patterns emerged:**
+
+
+- Excluding uniformity in the weights made it confusing for the users.
+  
+- Thecolor choice was not the best.
+
+  
+**What I learned from the feedback:**
+
+
+- The data had to be represented in a certain order (either ascending or descending).
+  
+- Users wanted to see an average for the cost or consumption intake.
+
+
 ## Step 5: Final Redesign 
 
 
