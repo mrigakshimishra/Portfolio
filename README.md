@@ -28,7 +28,7 @@ Further, upon seeing the data visualization, I noticed that there are opportunit
 
 
 
-When thinking of the intended audience which may include individuals such as professional trainers, dietitians, fitness enthusiasts, or budget-conscious families looking to optimize their protein intake cost-effectively, the information is highly relevant as the data has a twofold focus, emphasizing both cost and calories increasing allowing for a comprehensive approach to dietary planning that takes into account both economic and nutritional factors. The reason for giving it an 8 is considering that there is scope for improvement in terms of the visual design, the images for each source can be distracting, and eradicating this would make the data more direct and easier to comprehend. 
+When thinking of the intended audience which may include individuals such as professional trainers, dietitians, fitness enthusiasts, or budget-conscious families, the information is highly relevant as the data has a two-fold focus, emphasizing both cost and calories allowing for an approach to dietary planning that takes into account both economic and nutritional factors. The reason for giving it an 8 is considering that there is scope for improvement in terms of the visual design, the images for each source can be distracting, and eradicating this would make the data more direct and easier to comprehend. 
 
 
 **Completeness**
@@ -48,7 +48,19 @@ Considering the evaluation based on completeness, the information is sufficient 
 
 
 
-For the purpose of the data represented here, the choice to use a bar chart is effective since the purpose is to compare quantities like cost across different categories. The images are distracting, as they introduce unnecessary visual complexity that doesn't contribute to understanding the data better. Removing pictures would allow for quicker visual processing and reduce cognitive load. Further, the hierarchy can be improved upon in regards to the title and the explanation below it. Having all of it in block letters adds unnecessary strain to the eyes. 
+For the purpose of the data represented here, the choice to use a bar chart is effective since the purpose is to compare quantities like cost across different categories. The images are distracting, as they introduce unnecessary visual strain that doesn't contribute to understanding the data better. Removing pictures would help reduce cognitive load. Further, the hierarchy can be improved upon in regards to the title and the explanation below it. Having all of the text in block letters adds additional unnecessary strain to the eyes. 
+
+
+
+**Truthfulness**
+
+
+<img src="Truthfulness.png" alt="Truthfulness" width="600" />
+
+
+
+The visualization is accurate. The heights of the bars correspond accurately to the values they represent, the chart correctly scales the bars so that their heights are proportional to the cost per 30 grams of protein for each food item. The visualization could be improved by providing sources for the data at the bottom of the graph.
+
 
 
 **Intuitiveness**
@@ -82,7 +94,7 @@ While the data is not necessarily ugly it lacks an overall aesthetic appeal to i
 
 
 
-For an audience interested in nutritional or financial data, the chart’s subject matter is relevant, but maintaining engagement requires a straightforward and appealing presentation. The busy nature of the design may cause viewers to disengage once the initial visual interest fades, especially if they have to work hard to derive insights.
+For an audience interested in nutritional or financial data, the chart’s content is relevant, but maintaining engagement requires a straightforward and appealing presentation. The busy nature of the design (the colors used, having to find the associated cost with each bar) may cause viewers to disengage once the initial visual interest fades, especially if they have to work hard to derive insights.
 
 
 
