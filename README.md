@@ -179,6 +179,12 @@ While sketching out the solution, I emphasized on the observations I discovered 
 <img src="Interview Protocol.jpg" alt="Interview Protocol" width="600" />
 
 
+### User Interviews (Testing Session #1)
+
+
+<img src="Interview Summary .png" alt="Interview Summary" width="600" />
+
+
 ### In-Class Critique (Testing Session #2)
 
 The peer feedback was helpful for further refining the visualization and implementing some new ideas to the redesign and helped validate the opinions from the previous critique session too. 
