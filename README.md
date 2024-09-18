@@ -7,7 +7,10 @@ Through this course, I aim to sharpen my skills in visualizing data and communic
 # Assignment: [Visualize Goverment Debt](visualizinggovtdebt.md) 
 # Assignment: Critique by Design 
 ## Step 1: Finding a Data Visualization
-For this assignment, the data set that I choose to work with is from an article published on Lifehacker, written by Beth Skwarecki, and the supporting Data Visualization was created by Brittany Rosenau. The data mentions and analyzes the various sources of protein available and contrasts their costs based on 30g of each source. I have spent significant time reading about how a healthy diet can often be very expensive to follow for the average consumer which piqued my initial interest in the article. Further, upon seeing the data visualization, I noticed that there are opportunities to make it easier to interpret without spending so much time inferring the data. 
+
+For this assignment, the data set that I choose to work with is from an article published on Lifehacker, written by Beth Skwarecki, and the supporting Data Visualization was created by Brittany Rosenau. The data mentions and analyzes the various sources of protein available and contrasts their costs based on certain weights of each. I have spent significant time reading about how a healthy diet can often be very expensive to follow for the average consumer which piqued my initial interest in the article. Based on my interest in maintaining a healthy diet, I chose this specific data visualization to explore how effectively it communicates cost comparisons for protein sources. 
+
+Further, upon seeing the data visualization, I noticed that there are opportunities to make it easier to interpret without spending so much time inferring the data. While the original visualization aims to deliver useful information, I felt that certain design elements (explained in Step 2) made the data difficult to understand and might not be helpful for the intended target audience (expanded on in Step 2). Thus, I decided to work with this data set and aimed to apply my learnings to make it more insightful and easy to follow. 
 
 **Data Visualization:** The Bodybuilding Dietitians, [What Are The Cheapest High-Protein Foods?](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet)
 
