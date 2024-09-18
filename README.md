@@ -148,8 +148,10 @@ This method—using Stephen Few’s Data Visualization Effectiveness Profile—w
 While sketching out the solution, I emphasized on the observations I discovered during the critique and focused on improving the ones that would help make the chart more insightful, easy to navigate, and comprehend for all segments of the targeted audience. The sketch is an attempt to visualize the big ideas that I had for my redesign, however, the sketch is a low-fidelity prototype in this case. 
 
 
+**Sketch:**
 <img src="Wireframe 1.png" alt="Wireframe 1" width="600" />
 
+**Digitalized:**
 <img src="Wireframe 2.png" alt="Wireframe 2" width="600" />
 
 
