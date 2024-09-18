@@ -173,7 +173,12 @@ While sketching out the solution, I emphasized on the observations I discovered 
 ## Step 4: Test the Solution
 
 
+Testing helps us understand how our intended audience will perceive the data visualization. In this case especially, since it was a scenario of redesigning of an existing chart, testing helped me understand what factors were the most important to users, their initial reactions, and even what they wanted to see in the chart for further clarity. Throughout this process, I was able to identify certain blind spots that I earlier missed out on and even reflect on some of my decisions that weren't the best choices to make considering the context of this data visualization.
+
+
 ### Interview Protocol
+
+To better organize and make the most out of the testing process, I decided to develop a detailed interview protocol that helped me focus on the areas that I was looking to get feedback on. Following a protocol also helped when the conversations started to move towards different topics based on the interview responses, it helped me stay on track and be more mindful of the time. 
 
 
 <img src="Interview Protocol.jpg" alt="Interview Protocol" width="600" />
