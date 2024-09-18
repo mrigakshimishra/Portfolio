@@ -142,6 +142,23 @@ This method—using Stephen Few’s Data Visualization Effectiveness Profile—w
 
 **Few’s Effectiveness Profile** focuses on specific, technical criteria like **usefulness**, **completeness**, **perceptibility**, **truthfulness**, **intuitiveness**, **aesthetics**, and **engagement**. It provides a systematic way to break down a visualization's performance across each category, making it a more analytical and structured approach.**Good Charts Method** (from *Good Charts* by Scott Berinato) is more about the **storytelling and emotional impact** of data visualizations. Berinato's framework encourages designers to think about **clarity, form, aesthetics,** and **narrative**. He emphasizes design that supports intuitive understanding and effective storytelling, focusing on how the visualization resonates with the audience emotionally and intellectually. If one needs to  create a visualization for **quick decision-making** in a business environment, **Few’s Effectiveness Profile** is likely more useful. However, if the goal is to **influence, inspire, or communicate a story**, **Good Charts Method** would guide us towards a design that resonates emotionally and conceptually with your audience.
 
+
+## Step 3: Wireframe a Solution
+
+While sketching out the solution, I emphasized on the observations I discovered during the critique and focused on improving the ones that would help make the chart more insightful, easy to navigate, and comprehend for all segments of the targeted audience. The sketch is an attempt to visualize the big ideas that I had for my redesign, however, the sketch is a low-fidelity prototype in this case. 
+
+
+**Redesign Decisions:**
+
+**Title:** I changed the title to 'Protein on a Budget: Cost Comparison of Popular Sources', this is more insightful and instantly gives the audience an idea that they will be able to compare the costs of different protein sources. Additionally, adding in the word budget helps readers establish a sense of trust that this is something that would be affordable thus breaking the common misconception of healthy food being expensive. 
+
+**Segmentation:** I noticed that the data set was rich and had filters for whether a particular protein source was vegan or vegetarian, however, this was not utilized in the data visualization earlier. I decided to segment the various protein sources into these categories, thus making the chart more accessible to people with dietary restrictions or preferences. 
+
+**Cost & Weight Display:** Since the main takeaway from the visualization is for the intended audience to be able to infer costs and compare them, I decided to mention the exact costs for each source right next to it, this is the most important information on this graph and having this clearly mentioned makes it easier for the comparison too. I modified the weights changing it from a uniform scale to a scale that was generally used based on average consumption, my idea behind this was to include weights that they would end up consuming for each source and compare the prices based on that. 
+
+**Images & Calories:** The images added to a visual clutter without adding any value to the data. (some of them are even unclear thus not serving the purpose. While the calories may seem helpful at first glance, it is not directly related to the information that we are trying to portray in this visualization thus leading to an information overload for the users considering that they will have to look at costs, weights, and calories. These two factors were increasing the cognitive load when processing information on the bar chart thus I decided not to include them in my redesign. 
+
+
 ## Step 5: Final Redesign 
 
 
