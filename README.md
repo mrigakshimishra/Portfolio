@@ -19,6 +19,10 @@ Further, upon seeing the data visualization, I noticed that there are opportunit
 <img src="CheapestWayToGetProtein.png" alt="Cheapest Way To Get Protein" width="600" />
 
 ## Step 2: Critique The Visualization 
+
+For the critique of the original data visualzaiton, Stephen Few's Data Visualization Effectiveness Profile has been used as the method. The method helped critique the design based on several parameters falling under the broad categories of Informative and Emotive. For each of the criteria I mentioned both what worked and what didn't, additionally, I have also included the reason as to why a particular design decision does not work in this context.
+
+
 ### Informative
 
 **Usefulness**
@@ -28,7 +32,11 @@ Further, upon seeing the data visualization, I noticed that there are opportunit
 
 
 
+
+
 When thinking of the intended audience which may include individuals such as professional trainers, dietitians, fitness enthusiasts, or budget-conscious families, the information is highly relevant as the data has a two-fold focus, emphasizing both cost and calories allowing for an approach to dietary planning that takes into account both economic and nutritional factors. The reason for giving it an 8 is considering that there is scope for improvement in terms of the visual design, the images for each source can be distracting, and eradicating this would make the data more direct and easier to comprehend. 
+
+
 
 
 **Completeness**
@@ -38,7 +46,11 @@ When thinking of the intended audience which may include individuals such as pro
 
 
 
+
+
 Considering the evaluation based on completeness, the information is sufficient since the chart provides clear data on the cost and caloric content per 30 grams of protein for various food items, which is the core information needed for the stated purpose of comparing cost-effectiveness. It also covers a diverse range of protein sources, including plant-based options and animal-based options. However, where it lacks is in terms of providing enough relevant context. The chart does not include any comparative benchmarks, such as average costs, industry standards, or historical data, which could help frame the provided information more meaningfully and would significantly improve the user's ability to evaluate the information effectively. 
+
+
 
 
 **Perceptibility**
@@ -48,7 +60,11 @@ Considering the evaluation based on completeness, the information is sufficient 
 
 
 
+
+
 For the purpose of the data represented here, the choice to use a bar chart is effective since the purpose is to compare quantities like cost across different categories. The images are distracting, as they introduce unnecessary visual strain that doesn't contribute to understanding the data better. Removing pictures would help reduce cognitive load. Further, the hierarchy can be improved upon in regards to the title and the explanation below it. Having all of the text in block letters adds additional unnecessary strain to the eyes. 
+
+
 
 
 
@@ -59,7 +75,11 @@ For the purpose of the data represented here, the choice to use a bar chart is e
 
 
 
+
+
 The visualization is accurate. The heights of the bars correspond accurately to the values they represent, the chart correctly scales the bars so that their heights are proportional to the cost per 30 grams of protein for each food item. The visualization could be improved by providing sources for the data at the bottom of the graph.
+
+
 
 
 
@@ -70,7 +90,11 @@ The visualization is accurate. The heights of the bars correspond accurately to 
 
 
 
+
+
 The bar chart is a widely used format for displaying comparative data, thus making it a good choice for a general audience. Improving intuitiveness could involve simplifying the visual design to focus more on the data itself, reducing the use of multiple images, and possibly including brief instructions or clearer labels that guide the viewer through the data more clearly. This would make the chart more accessible and easier to understand for a wider range of viewers.
+
+
 
 
 
@@ -84,7 +108,12 @@ The bar chart is a widely used format for displaying comparative data, thus maki
 
 
 
+
+
 While the data is not necessarily ugly it lacks an overall aesthetic appeal to it which if enhanced could improve the visualization. There is an attempt to make the chart visually engaging, however its aesthetics can be perceived as too busy or lacking in professional polish. The use of various colors and images, although initially eye-catching, may ultimately serve more as a distraction than an enhancement. Improving the aesthetics could involve eliminating the use of food images, and focusing on a cleaner, more professional design that enhances the data's visibility and the viewer's ability to engage with the content without visual distractions. This would make the chart not only more pleasing but also potentially more effective at communicating its intended message.
+
+
+
 
 
 **Engagement**
@@ -94,7 +123,12 @@ While the data is not necessarily ugly it lacks an overall aesthetic appeal to i
 
 
 
+
+
 For an audience interested in nutritional or financial data, the chart’s content is relevant, but maintaining engagement requires a straightforward and appealing presentation. The busy nature of the design (the colors used, having to find the associated cost with each bar) may cause viewers to disengage once the initial visual interest fades, especially if they have to work hard to derive insights.
+
+
+
 
 
 
