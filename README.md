@@ -182,6 +182,9 @@ While sketching out the solution, I emphasized on the observations I discovered 
 ### User Interviews (Testing Session #1)
 
 
+For the purpose of getting accurate information, I recruited participants for the interview who were part of the intended target audience. 
+
+
 <img src="Interview Summary .png" alt="Interview Summary" width="600" />
 
 
