@@ -159,7 +159,7 @@ While sketching out the solution, I emphasized on the observations I discovered 
 <img src="Wireframe 2.png" alt="Wireframe 2" width="600" />
 
 
-**Redesign Decisions:**
+**Redesign Decisions (Context):**
 
 **Title:** I changed the title to 'Protein on a Budget: Cost Comparison of Popular Sources', this is more insightful and instantly gives the audience an idea that they will be able to compare the costs of different protein sources. Additionally, adding in the word budget helps readers establish a sense of trust that this is something that would be affordable thus breaking the common misconception of healthy food being expensive. 
 
