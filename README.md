@@ -148,6 +148,11 @@ This method—using Stephen Few’s Data Visualization Effectiveness Profile—w
 While sketching out the solution, I emphasized on the observations I discovered during the critique and focused on improving the ones that would help make the chart more insightful, easy to navigate, and comprehend for all segments of the targeted audience. The sketch is an attempt to visualize the big ideas that I had for my redesign, however, the sketch is a low-fidelity prototype in this case. 
 
 
+<img src="Wireframe 1.png" alt="Wireframe 1" width="600" />
+
+<img src="Wireframe 2.png" alt="Wireframe 2" width="600" />
+
+
 **Redesign Decisions:**
 
 **Title:** I changed the title to 'Protein on a Budget: Cost Comparison of Popular Sources', this is more insightful and instantly gives the audience an idea that they will be able to compare the costs of different protein sources. Additionally, adding in the word budget helps readers establish a sense of trust that this is something that would be affordable thus breaking the common misconception of healthy food being expensive. 
