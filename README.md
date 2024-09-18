@@ -170,7 +170,18 @@ While sketching out the solution, I emphasized on the observations I discovered 
 **Images & Calories:** The images added to a visual clutter without adding any value to the data. (some of them are even unclear thus not serving the purpose. While the calories may seem helpful at first glance, it is not directly related to the information that we are trying to portray in this visualization thus leading to an information overload for the users considering that they will have to look at costs, weights, and calories. These two factors were increasing the cognitive load when processing information on the bar chart thus I decided not to include them in my redesign. 
 
 
+## Step 4: Test the Solution
+
+
 ## Step 5: Final Redesign 
+
+
+### In-Class Critique (Testing Session #2)
+
+The peer feedback was helpful for further refining the visualization and implementing some new ideas to the redesign and helped validate the opinions from the previous critique session too. 
+
+
+<img src="In-Class Critique.jpg" alt="In-Class Critique" width="600" />
 
 
 <div class='tableauPlaceholder' id='viz1726664816165' style='position: relative'><noscript><a href='#'><img alt='Redesigned Data Visualization ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;ProteinSource_17266372515600&#47;RedesignedDataVisualization&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ProteinSource_17266372515600&#47;RedesignedDataVisualization' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pr&#47;ProteinSource_17266372515600&#47;RedesignedDataVisualization&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
