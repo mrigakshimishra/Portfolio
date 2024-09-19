@@ -327,9 +327,9 @@ A few of the users during the interview mentioned that including the calories wo
 
 ### Data Source Acknowledgement
 
-**Data Visualization:** The Bodybuilding Dietitians, [What Are The Cheapest High-Protein Foods?](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet): This is the original data visualization that I used for the critique and basis of the redesign.
+[What Are The Cheapest High-Protein Foods?](https://www.thebodybuildingdietitians.com/blog/how-cost-effective-is-your-high-protein-diet): This is the original data visualization that I used for the critique and basis of the redesign.
 
-**Data Source:** Lifehacker, [The Cheapest Ways to Get Your Protein Right Now](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760): This is the source of the data set which was used in the redesign. 
+[The Cheapest Ways to Get Your Protein Right Now](https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760): This is the source of the data set which was used in the redesign. 
 
 [Grammarly](https://app.grammarly.com): The grammar checker and AI tool was used to help frame the sentences better and check for additional grammar and spelling errors. 
 
