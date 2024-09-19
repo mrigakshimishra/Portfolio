@@ -271,7 +271,12 @@ The peer feedback was helpful for further refining the visualization and impleme
 - Users wanted to see an average for the cost or consumption intake.
 
 
-## Step 5: Final Redesign 
+## Step 5: Building a Solution 
+
+
+The final step served as an accumulation of all the steps until now, my approach was to take into account the original graph, my critique based on it, the redesigned wireframes, and feedback from both testing solutions- and based on this thinking of what the best way of showing the graph would be. Prioritizing which feedback to include and which were the ones less important. Seeing the final chart come together was extremely rewarding after going through the entire process. 
+
+
 
 
 <div class='tableauPlaceholder' id='viz1726705134220' style='position: relative'><noscript><a href='#'><img alt='Redesigned Data Visualization ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CritiquebyDesign_17267050814750&#47;RedesignedDataVisualization&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CritiquebyDesign_17267050814750&#47;RedesignedDataVisualization' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CritiquebyDesign_17267050814750&#47;RedesignedDataVisualization&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
@@ -283,6 +288,40 @@ The peer feedback was helpful for further refining the visualization and impleme
   var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+
+
+
+
+**Changes Incorporated:**
+
+
+* Since I received unanimous feedback on the color scheme being too loud I decided to change it and cooler colors, however, the context for the colors was changed in this version (explained in the next point).
+* Learning about how important it was for users to be able to see the average pricing was an insightful aspect that I had missed out on. I added a line showcasing the average based on different categories. The colors are divided based on this too. The ones below average are in gray and the ones above average are in blue. 
+* The data was showing price points hence it was essential to incorporate a sorting order, I have added both ascending and descending order for this. 
+* To make the navigation easy and interactive there is a dashboard primarily used for filtering out options based on what the users wish to see. 
+
+**What my redesign shows:**
+
+
+Through my redesign I aim to provide maximum takeback for users in the minimum time possible, I do not want someone to spend a lot of hours on this, I believe that within a few minutes (3-4) they should able to understand everything and this is what I attempted to incorporate. This started right from the title, reading which users will easily be able to infer the context, coming to the graph there is the detailed list (All) which shows the list of all sources of protein, has the average and price further there are additional filters that help filter out the vegetarian and vegan and none of these (meat- if a user clicks on no for both) options available. This makes the sorting process simpler and within 2-3 clicks the users can all possible combinations and make inferences based on them.
+
+**Reason for selecting this data:**
+
+
+As mentioned previously, the topic of this data was enough to get me interested in it, further, some of the decisions that I took were considering the fact that this was a large data set however in the original visualization a lot of important aspects had been missed out on. Since I wanted to list all sources I decided to switch to a horizontal bar graph instead of a vertical one. 
+
+
+**What I attempted to show or do differently:**
+
+
+Through the visual, I attempted to reduce visual clutter, to the extent of making bold decisions like not including defined numbers for the x-axis. However, the reason for this was to make the chart easy to read and quick to gras,p and thus to reduce eye travel I decided to remove some of the conventional aspects included in bar graphs (values on the x-axis and key)
+
+
+*Feedback not incorporated (&Why):
+A few of the users during the interview mentioned that including the calories would help some of the intended target audience members, however with including this, there was a high possibility of excessive cognitive load for the users and increased time for processing the information, hence I decided to skip it.* 
+
+
 
 
 # Final Project 
