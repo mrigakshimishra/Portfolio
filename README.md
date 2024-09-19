@@ -333,7 +333,7 @@ A few of the users during the interview mentioned that including the calories wo
 
 [Grammarly](https://app.grammarly.com): The grammar checker and AI tool was used to help frame the sentences better and check for additional grammar and spelling errors. 
 
-[Tableau Community](https://community.tableau.com/s/):I used this when I was facing some troubles with the public view of my graph.
+[Tableau Community](https://community.tableau.com/s/): I used this when I was facing some troubles with the public view of my graph.
 
 [Watch Me Viz](https://www.youtube.com/watch?v=45pgu_SrZsg&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=53): This was used at points when certain things were not working for me on the backend and to get an overall understanding of what functions to use for buiding the dashboard.
 
