@@ -28,7 +28,7 @@ Visualization Idea: For this phase, I will include before/after comparisons of 
 
 ## Project Structure
 
-<img src="Untitled - TSWD.jpg" alt="Untitled - TSWD.jpg" width="600" />
+<img src="Untitled - TSWD.jpg" alt="Untitled - TSWD.jpg" width="900" />
 
 
 ## Initial Sketches 
