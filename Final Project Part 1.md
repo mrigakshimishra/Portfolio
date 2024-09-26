@@ -33,11 +33,25 @@ Visualization Idea: For this phase, I will include before/after comparisons of 
 
 ## Initial Sketches 
 
+Through the initial sketches, I aimed to capture the essence of the major points in the storyline. Rather than being an exact representation of the final version in a lower fidelity, these are to primarily showcase the big at each of the phases that I described. For the final version, I will be modifying these and adding more relevant visualizations as well. 
+
 <img src="CancerSurvivalRates.heic" alt="CancerSurvivalRates.heic" width="700" />
+
+**Key Purpose:** Laying the foundation by showing that these disparities exist and need further investigation.
+**Key Message:** There is a significant survival gap between different ethnicities.
+**Narrative:** Cancer survival rates show troubling trends. Certain racial, socioeconomic, and geographic groups face worse outcomes. But what’s driving this disparity?
 
 <img src="StageWise.heic" alt="StageWise.heic" width="700" />
 
+**Key Purpose:** Highlighting that beyond ethnicities, location plays a significant role in determining when cancer is diagnosed.
+**Key Message:** Geography contributes to late-stage cancer diagnoses and worsening survival outcomes.
+**Narrative:** The disparity isn’t just about race or income, it’s about where you live and when you’re diagnosed. Patients in underserved regions are more likely to be diagnosed late when survival rates are much lower.
+
 <img src="ScreeningVsSurvival.heic" alt="ScreeningVsSurvival.heic" width="700" />
+
+**Key Purpose:** Illustrate how the lack of preventive care in certain communities drives the survival gap.
+**Key Message:** Communities with better access to screenings show higher survival rates.
+**Narrative:** Where early screening programs have been introduced, we’ve seen a measurable improvement in survival rates.
 
 
 ## The Data 
