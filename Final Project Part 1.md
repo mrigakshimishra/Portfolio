@@ -1,8 +1,31 @@
 # Final Project: Part 1
 ## Background 
+
+The final project involves the use of data such that it intervenes in the bigger story. Having worked in the healthcare industry previously I had witnessed how the experience for patients was often different based on their socioeconomic background. Thus, for the final project, I decided to work on this and dive deeper into the data that often gets overlooked especially when it comes to looking for a solution. 
+
+
 ## Topic 
+
+The Cancer Mortality Gap: Disparities in Outcomes (In the United States)
+
+
 ## Project Outline 
+
+What is the first thing that comes to our mind when we think of cancer? Perhaps, struggle, chemotherapy, excessive financial and physical burden on caregivers, struggle to cope, or even death sometimes. Most feelings can be tied back to a common theme - an extremely negative reaction, however, this isn't the same for everyone. We live in a world divided on several socio-economic factors that affect something as basic as access to healthcare often leading to unequal outcomes in most scenarios. While it is widely known that cancer survival rates vary based on these factors, my aim through this project is to go deeper by uncovering less obvious but critical factors, such as access to early diagnosis and systemic healthcare barriers. By visualizing these disparities and examining successful interventions, I aim to show how targeted healthcare programs can help close the survival gap.
+
+
 ## Project Setup
+
+**[Setup] Establishing Context:** The setup phase provides the necessary background and helps introduce the topic to the audience audience. At this stage, I want to frame the problem and get them hooked.
+Visualization Idea: Using a bar chart showing the survival rate differences between various ethnic groups to establish that disparities exist.
+
+**[Conflict] Introducing the Problem:** Next, I’ll dig deeper into the problem, focusing on the surprising or less obvious facts. This is where I aim to present the insight that leaves the audience thinking and curious for the next stage.
+Visualization Idea: Heat map to highlight disparities based on geography, showing the detection for each cancer stage. 
+
+**[Resolution] Showing the Path Forward:** The resolution is where I aim to bring closure to the story by showing the impact that certain interventions have. At this stage, I want to leave the audience with a sense of awareness and hope, knowing that the situation is not ideal however if each of us focuses on taking the right step in the right direction we will be able to see a drop in the number of cases.
+Visualization Idea: For this phase, I will include before/after comparisons of regions that have successfully reduced disparities. Additionally, a side-by-side comparison chart might demonstrate the impact of early intervention and even policy changes.
+
+
 ## Project Structure
 ## Initial Sketches 
 ## The Data 
