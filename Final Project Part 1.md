@@ -44,12 +44,17 @@ Visualization Idea: For this phase, I will include before/after comparisons of 
 
 **Reference:**  https://seer.cancer.gov/registries/terms.html
 
+
+
 **Data: State Cancer Profile** 
 
 **Description:**  The State Cancer Profile, breaks down the cancer state taking into consideration Demographics, Screening and Risk Factors, Incidence, and Mortality for each state, this data set is very rich and extremely helpful for the Conflict stage to present the data on late-stage cancer diagnoses and the screening rates.
+
 *I might utilize this data set for the Setup phase as well.
 
 **Reference:**  https://statecancerprofiles.cancer.gov
+
+
 
 
 **Data: Federal Programs That Support Cancer Prevention and Early Detection** 
