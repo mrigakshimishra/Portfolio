@@ -66,7 +66,7 @@ Through the initial sketches, I aimed to capture the essence of the major points
 
 **Key Message:** Communities with better access to screenings show higher survival rates.
 
-**Narrative:** Where early screening programs have been introduced, we’ve seen a measurable improvement in survival rates.
+**Narrative:** Where early screening programs have been introduced, there is a measurable improvement in survival rates.
 
 
 ## The Data 
