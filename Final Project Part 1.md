@@ -32,6 +32,14 @@ Visualization Idea: For this phase, I will include before/after comparisons of 
 
 
 ## Initial Sketches 
+
+<img src="CancerSurvivalRates.heic" alt="CancerSurvivalRates.heic" width="900" />
+
+<img src="StageWise.heic" alt="StageWise.heic" width="900" />
+
+<img src="ScreeningVsSurvival.heic" alt="ScreeningVsSurvival.heic" width="900" />
+
+
 ## The Data 
 
 **Data: The Surveillance, Epidemiology, and End Results (SEER) Cancer Registry** 
