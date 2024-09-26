@@ -31,6 +31,11 @@ Visualization Idea: For this phase, I will include before/after comparisons of 
 <img src="Untitled - TSWD.jpg" alt="Untitled - TSWD.jpg" width="900" />
 
 
+## Story Arc
+
+<img src="Story Arc.png" alt="Story Arc.png" width="900" />
+
+
 ## Initial Sketches 
 
 Through the initial sketches, I aimed to capture the essence of the major points in the storyline. Rather than being an exact representation of the final version in a lower fidelity, these are to primarily showcase the big at each of the phases that I described. For the final version, I will be modifying these and adding more relevant visualizations as well. 
