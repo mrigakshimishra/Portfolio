@@ -62,7 +62,7 @@ Through the initial sketches, I aimed to capture the essence of the major points
 
 
 
-**Key Purpose:** Illustrate how the lack of preventive care in certain communities drives the survival gap.
+**Key Purpose:** Showcasing how the lack of preventive care in certain communities drives the survival gap.
 
 **Key Message:** Communities with better access to screenings show higher survival rates.
 
