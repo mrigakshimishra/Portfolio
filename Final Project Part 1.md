@@ -14,7 +14,7 @@ The Cancer Mortality Gap: Disparities in Outcomes (In the United States)
 What is the first thing that comes to our mind when we think of cancer? Perhaps, struggle, chemotherapy, excessive financial and physical burden on caregivers, struggle to cope, or even death sometimes. Most feelings can be tied back to a common theme - an extremely negative reaction, however, this isn't the same for everyone. We live in a world divided on several socio-economic factors that affect something as basic as access to healthcare often leading to unequal outcomes in most scenarios. While it is widely known that cancer survival rates vary based on these factors, my aim through this project is to go deeper by uncovering less obvious but critical factors, such as access to early diagnosis and systemic healthcare barriers. By visualizing these disparities and examining successful interventions, I aim to show how targeted healthcare programs can help close the survival gap.
 
 
-## Project Setup
+## Project Setup (Based on The Good Charts Method)
 
 **[Setup] Establishing Context:** The setup phase provides the necessary background and helps introduce the topic to the audience audience. At this stage, I want to frame the problem and get them hooked.
 Visualization Idea: Using a bar chart showing the survival rate differences between various ethnic groups to establish that disparities exist.
@@ -27,6 +27,10 @@ Visualization Idea: For this phase, I will include before/after comparisons of 
 
 
 ## Project Structure
+
+<img src="Untitled - TSWD.jpg" alt="Untitled - TSWD.jpg" width="600" />
+
+
 ## Initial Sketches 
 ## The Data 
 ## Method and Medium 
