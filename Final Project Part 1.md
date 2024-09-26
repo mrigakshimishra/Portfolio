@@ -33,6 +33,30 @@ Visualization Idea: For this phase, I will include before/after comparisons of 
 
 ## Initial Sketches 
 ## The Data 
+
+**Data: The Surveillance, Epidemiology, and End Results (SEER) Cancer Registry** 
+
+**Description:**  The data set contains the total number of cases by state, gender, and ethnic group. My goal is to use this data for the visualizations in the Setup phase. This data is useful in terms of setting up the background to get an understanding of the current state of case cases based on these demographics. 
+*This data set currently does not show the data for certain states, the process for that is to apply through this form. I have applied for this and will get access to it within the next two days. 
+**I'm not entirely sure about using this data set at this point since I'm yet to receive the access in the case that I do not I will be using the State Cancer profile for the Setup phase as well. 
+
+**Reference:**  https://seer.cancer.gov/registries/terms.html
+
+**Data: State Cancer Profile** 
+
+**Description:**  The State Cancer Profile, breaks down the cancer state taking into consideration Demographics, Screening and Risk Factors, Incidence, and Mortality for each state, this data set is very rich and extremely helpful for the Conflict stage to present the data on late-stage cancer diagnoses and the screening rates.
+*I might utilize this data set for the Setup phase as well.
+
+**Reference:**  https://statecancerprofiles.cancer.gov
+
+
+**Data: Federal Programs That Support Cancer Prevention and Early Detection** 
+
+**Description:**  This report by the National Institute of Health (NIH) provides details on all of the initiatives taken by the government, the states in which they were implemented and what was the impact of each of these changes. My goal is to utilize this data set for the resolution phase to highlight the impact of interventions such as early detection and screening. 
+
+**Reference:**  https://www.ncbi.nlm.nih.gov
+
+
 ## Method and Medium 
 
 **Data Visualization- Tableau and Flourish:** For data visualizations, I will be focusing primarily on Tableau, however, having recently discovered Flourish it is something I would want to utilize for my final project given that it helps make data visualizations interactive thus helping with the storytelling too.
