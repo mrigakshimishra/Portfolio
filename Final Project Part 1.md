@@ -28,14 +28,14 @@ Visualization Idea: For this phase, I will include before/after comparisons of 
 
 ## Project Structure
 
-<img src="Untitled - TSWD.jpg" alt="Untitled - TSWD.jpg" width="700" />
+<img src="Untitled - TSWD.jpg" alt="Untitled - TSWD.jpg" width="900" />
 
 
 ## Initial Sketches 
 
 <img src="CancerSurvivalRates.heic" alt="CancerSurvivalRates.heic" width="700" />
 
-<img src="StageWise.heic" alt="StageWise.heic" width="900" />
+<img src="StageWise.heic" alt="StageWise.heic" width="700" />
 
 <img src="ScreeningVsSurvival.heic" alt="ScreeningVsSurvival.heic" width="700" />
 
