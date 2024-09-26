@@ -38,7 +38,7 @@ Visualization Idea: For this phase, I will include before/after comparisons of 
 
 **Description:**  The data set contains the total number of cases by state, gender, and ethnic group. My goal is to use this data for the visualizations in the Setup phase. This data is useful in terms of setting up the background to get an understanding of the current state of case cases based on these demographics. 
 
-*This data set currently does not show the data for certain states, the process for that is to apply through this form. I have applied for this and will get access to it within the next two days. 
+*This data set currently does not show the data for certain states, the process for that is to apply through this [form](https://www.cdc.gov/united-states-cancer-statistics/public-use/pdf/uscs-public-use-database-request-form-fillable-508.pdf). I have applied for this and will get access to it within the next two days. 
 
 **I'm not entirely sure about using this data set at this point since I'm yet to receive the access in the case that I do not I will be using the State Cancer profile for the Setup phase as well. 
 
