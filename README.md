@@ -7,5 +7,5 @@ Through this course, I aim to sharpen my skills in visualizing data and communic
 # Assignment: [Visualize Goverment Debt](visualizinggovtdebt.md) 
 # Assignment: [Critique by Design](critiquebydesign.md) 
 
-# Final Project 
+# Final Project: [Part 1](Final Project Part 1.md)
 Content to be added here 
