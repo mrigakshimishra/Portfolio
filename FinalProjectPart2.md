@@ -12,14 +12,14 @@
 
 |   | Participant 1  | Participant 2  |  Participant 3 | |
 |---|---|---|---|---|
-|   | 24, Female, Student  | x  |  x |   |
+|   | _**24, Female, Student**_  | x  |  x |   |
 |   | It would help to use the same colors for all the graphs and charts. | x  |  x |   |
 |   | Since the focus is only on US, this should be mentioned somehow at the beginning.   | x  |  x |   |
 |   | The line chart took a little longer to interpret.   | x  |  x |   |
 |   | Specifying what section of the society comes in the 'underrepresented category'.  | x  |  x |   |
 |   | " Starting with a figure was helpful in catching my attention "  | x  |  x |   |
 |   | " I would want to know to know what I can do as a student with limited resources "  | x  |  x |   |
-|   | x  | x  |  x |   |
+
 
 
 ## Moodboard and Persona
