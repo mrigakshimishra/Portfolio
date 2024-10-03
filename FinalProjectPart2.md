@@ -23,18 +23,22 @@
 ### In Class Peer Feedback (10/01)
 
 **What Worked?**
+
 The topic was well-thought out and the overall flow of the story was good.
 The visualizations helped in storytelling without taking away the focus from the story.
 
 **What Didn't Work?**
+
 The call-to-actions need to be improved, it was not helping complete the story.
 Some of the color choices didn't seem to work,  it was too contrasting.
 
 **What Questions Came Up?**
+
 Do you plan to focus on a specific type of cancer later in the story?
 What are smaller interventions that can help?
 
 **What New Inspirations Arose?**
+
 Improving the color choices throughout, I decided to make a moodboard to help with this. (I had not made one before the peer feedback)
 
 ## Moodboard and Persona
