@@ -20,7 +20,15 @@
 |   | _"Starting with a figure was helpful in catching my attention."_  | _"The title for the graph is insightful."_  |  _"I didn't know there was so much of a gap."_ |   |
 |   | _"I would want to know to know what I can do as a student with limited resources."_  | _"For some of the slides, the text is a little hard to read because of the color contrast."_  |  _"To make it more engaging, you can end with a question."_ |   |
 
+### In Class Peer Feedback (10/01)
 
+**What Worked?**
+
+**What Didn't Work?**
+
+**What Questions Came Up?**
+
+**What New Inspirations Arose?**
 
 ## Moodboard and Persona
 
