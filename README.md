@@ -8,4 +8,5 @@ Through this course, I aim to sharpen my skills in visualizing data and communic
 # Assignment: [Critique by Design](critiquebydesign.md) 
 
 # Final Project: [Part 1](FinalProjectPart1.md)
-Content to be added here 
+
+# Final Project: [Part 2](FinalProjectPart2.md)
