@@ -12,9 +12,19 @@
 
 |   | Participant 1  | Participant 2  |  Participant 3 | |
 |---|---|---|---|---|
+|   | It would help to use the same colors for all the graphs and charts. 
+
+Since the focus is only on US, this should be mentioned somehow at the beginning. 
+
+The line chart took a little longer to interpret. 
+
+Specifying what section of the society comes in the 'underrepresented category'.
+
+
+" Starting with a figure was helpful in catching my attention "
+" I would want to know to know what I can do as a student with limited resources "  | x  |  x |   |
 |   | x  | x  |  x |   |
-|   |  x | x  |  x |   |
-|   |  x | x  |  x |   |
+
 
 ## Moodboard and Persona
 
