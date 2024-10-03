@@ -17,7 +17,7 @@
 |   | Since the focus is only on US, this should be mentioned somehow at the beginning.   | x  |  Some of the existing policies can be explored. |   |
 |   | The line chart took a little longer to interpret.   | x  |  Call-to-actions did not particularly speak to the target audience.  |   |
 |   | Specifying what section of the society comes in the 'underrepresented category'.  | x  |  The language used can be made simpler- so that the target audience can understand quickly. |   |
-|   | _"Starting with a figure was helpful in catching my attention."_  | _"The title for the graph is insightful."_  |  -"I didn't know there was so much of a gap."_ |   |
+|   | _"Starting with a figure was helpful in catching my attention."_  | _"The title for the graph is insightful."_  |  _"I didn't know there was so much of a gap."_ |   |
 |   | _"I would want to know to know what I can do as a student with limited resources."_  | _"For some of the slides, the text is a little hard to read because of the color contrast."_  |  _"To make it more engaging, you can end with a question."_ |   |
 
 
