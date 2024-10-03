@@ -18,7 +18,7 @@
 |   | The line chart took a little longer to interpret.   | x  |  Call-to-actions did not particularly speak to the target audience.  |   |
 |   | Specifying what section of the society comes in the 'underrepresented category'.  | x  |  The language used can be made simpler- so that the target audience can understand quickly. |   |
 |   | _"Starting with a figure was helpful in catching my attention."_  | _"The title for the graph is insightful."_  |  x |   |
-|   | _"I would want to know to know what I can do as a student with limited resources."_  | "For some of the slides, the text is a little hard to read because of the color contrast."_  |  x |   |
+|   | _"I would want to know to know what I can do as a student with limited resources."_  | _"For some of the slides, the text is a little hard to read because of the color contrast."_  |  x |   |
 
 
 
