@@ -8,6 +8,8 @@ For the wireframes and storyboards, I started working on Shorthand directly, thi
 
 ## User Research and Interviews
 
+For the User Research, getting the right feedback was crucial, thus I divided my questions into categories depending on what my key focus areas were for the storyline (Overall Story, Visualizations, and Engagement). This helped me get feedback for the areas most impactful to the story flow. 
+
 <img src="TSWD_ Part 2 - Frame 1-2.jpg" alt="TSWD_ Part 2 - Frame 1-2" width="800" />
 
 <img src="TSWD_ Part 2 - Frame 2.jpg" alt="TSWD_ Part 2 - Frame 2" width="800" />
