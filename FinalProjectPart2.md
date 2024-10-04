@@ -75,3 +75,5 @@ The personas were created keeping in mind the target audience that I want to add
 [Canva](https://www.canva.com): For creating the persona and the Insights and Next Steps, I used Canva. 
 
 [Persona Template](https://github.com/18F/federalist-design/wiki/Personas): This template was used to form the personas and decide which aspects need to be included.
+
+[Grammarly](https://app.grammarly.com): I used grammarly to help frame my sentences and structure the overall flow of the story.
