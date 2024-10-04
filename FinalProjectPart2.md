@@ -26,6 +26,9 @@ For the wireframes and storyboards, I started working on Shorthand directly, thi
 
 ### In Class Peer Feedback (10/01)
 
+The in-class peer feedback was useful in terms of validating some of the findings from the interview and getting new ideas for the overall storyline.
+
+
 **What Worked?**
 
 The topic was well-thought out and the overall flow of the story was good.
