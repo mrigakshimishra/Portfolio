@@ -17,7 +17,6 @@ For the wireframes and storyboards, I started working on Shorthand directly, thi
 |   | Participant 1  | Participant 2  |  Participant 3 | |
 |---|---|---|---|---|
 |   |  _**24, Female, Student**_   |  _**24, Male, Student**_   |   _**26, Female, Student**_  |   |
-|---|---|---|---|---|
 |   | It would help to use the same colors for all the graphs and charts. | The call-to-actions are somewhat vague.   |  More data points can be incorporated, to emphasize the importance of interventions.  |   |
 |   | Since the focus is only on US, this should be mentioned somehow at the beginning.   | The flow of the story is good overall.  |  Some of the existing policies can be explored. |   |
 |   | The line chart took a little longer to interpret.   | Focusing on both socioeconomic and geographical factors might be a little too much.   |  Call-to-actions did not particularly speak to the target audience.  |   |
