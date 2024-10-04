@@ -50,9 +50,12 @@ Improving the color choices throughout, I decided to make a moodboard to help wi
 <img src="Insights and Next Steps.png" alt="Insights and Next Steps" width="800" />
 
 
-## Moodboard and Persona
+## Moodboard 
 
 <img src="TSWD_Moodboard.png" alt="TSWD_Moodboard" width="800" />
+
+
+## Persona
 
 
 <img src="TSWD_Persona.png" alt="TSWD_Persona" width="800" />
