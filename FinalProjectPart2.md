@@ -52,6 +52,8 @@ Improving the color choices throughout, I decided to make a moodboard to help wi
 
 ## Moodboard 
 
+While I had not initially created a Moodboard as I felt that it might not be necessarily helpful, post the feedback sessions, I realized that a lot of visual elements (color, images, etc.) were not going well with one another, to address this I decided to create a moodboard as this would help with the cohesiveness of my project and bring everything together. Further, creating the moodboard also helped me explore certain aspects that I could incorporate for my story going forward. 
+
 <img src="TSWD_Moodboard.png" alt="TSWD_Moodboard" width="800" />
 
 
