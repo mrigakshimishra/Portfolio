@@ -2,7 +2,7 @@
 
 ## Wireframes and Storyboards 
 
-For the wireframes and storyboards, I started working on Sorthand directly, this was primarily to make myself more comfortable and familiar with using the tool. 
+For the wireframes and storyboards, I started working on Shorthand directly, this was primarily to make myself more comfortable and familiar with using the tool. 
 
 [Shorthand Storyboard](https://preview.shorthand.com/XqziLd4cTWb9Ak6r)
 
