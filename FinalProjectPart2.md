@@ -60,10 +60,10 @@ While I had not initially created a Moodboard as I felt that it might not be nec
 ## Persona
 
 
-<img src="TSWD_Persona.png" alt="TSWD_Persona" width="800" />
+<img src="TSWD_Persona.png" alt="TSWD_Persona" width="900" />
 
 
-<img src="TSWD_Persona-2.png" alt="TSWD_Persona" width="800" />
+<img src="TSWD_Persona-2.png" alt="TSWD_Persona" width="900" />
 
 
 ## Data Source Acknowledgement 
