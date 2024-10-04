@@ -59,3 +59,12 @@ Improving the color choices throughout, I decided to make a moodboard to help wi
 
 
 <img src="TSWD_Persona-2.png" alt="TSWD_Persona" width="800" />
+
+
+## Data Source Acknowledgement 
+
+[Miro](https://miro.com): I used Miro to design the User Research protocol, being a design student I was already comfortable with using the tool and hence felt that I would be able to create it faster using Miro.
+
+[Canva](https://www.canva.com): For creating the persona and the Insights and Next Steps, I used Canva. 
+
+[Persona Template](https://github.com/18F/federalist-design/wiki/Personas): This template was used to form the personas and decide which aspects need to be included.
