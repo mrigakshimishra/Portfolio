@@ -47,7 +47,7 @@ Improving the color choices throughout, I decided to make a moodboard to help wi
 
 ### Insights and Next Steps 
 
-The insights and Next Steps were formed after conducting the user research and receiving the in-class peer feedback too. My approach for this was to find common themes around both and focus on the steps that would make the most sense in terms of creating an impact story for the target audience. 
+The Insights and Next Steps were formed after conducting the user research and receiving the in-class peer feedback too. My approach for this was to find common themes around both and focus on the steps that would make the most sense in terms of creating an impact story for the target audience. 
 
 
 <img src="Insights and Next Steps.png" alt="Insights and Next Steps" width="800" />
