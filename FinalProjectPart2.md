@@ -59,6 +59,8 @@ While I had not initially created a Moodboard as I felt that it might not be nec
 
 ## Persona
 
+The personas were created keeping in mind the target audience that I want to address while also incorporating a few elements from my interviews. While creating the persona, the main thing I had in mind was to focus on how they would perceive the story, diving deeper into whether the storyline that I created met their expectations and understanding. For now, I have created two primary personas, but I believe there would be secondary personas as well- these would be people indirectly involved in the experience such as healthcare workers, family members, and even caregivers.
+
 
 <img src="TSWD_Persona.png" alt="TSWD_Persona" width="900" />
 
