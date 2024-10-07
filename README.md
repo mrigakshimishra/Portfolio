@@ -10,3 +10,5 @@ Through this course, I aim to sharpen my skills in visualizing data and communic
 # Final Project: [Part 1](FinalProjectPart1.md)
 
 # Final Project: [Part 2](FinalProjectPart2.md)
+
+# Final Project: [Part 3](FinalProjectPart3.md)
